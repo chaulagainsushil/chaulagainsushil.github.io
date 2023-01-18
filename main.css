@@ -16,3 +16,19 @@ body
 {text-align: center;
     
 }
+#project_first{
+    border: 1px solid blue;
+    width: 1000px;
+    margin: 20px auto;
+    text-align: left;
+}
+#top_header{
+    background: red;
+    border: 1px solid blue;
+    padding: 20px;
+}
+#top_menu {
+    background: BLUE;
+    color: white;
+}
+
