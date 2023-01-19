@@ -28,7 +28,21 @@ body
     padding: 20px;
 }
 #top_menu {
-    background: BLUE;
+    background: blue;
     color: white;
 }
+#top_menu li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px tahoma ;
+}
+#main_body{
+    float: left;
+    width: 660px;
+    margin: 360px;  /* margin: 30px;  /* 720px , 280 left /*
+
+
+
+
+
 
