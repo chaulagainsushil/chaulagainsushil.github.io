@@ -33,3 +33,6 @@
 .formtable1{
     align-items: center;
 }
+.submit{
+    border: 0; width: 100; color:white;
+}
