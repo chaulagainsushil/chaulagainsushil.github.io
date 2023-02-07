@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+}
+.logo{
+    height: 30%; width: 20%; align-items: left;
+}
+.Qrlogo{
+    height: 30%; width: 20%; align-items:right;
+}
+.passporttable {
+     border: 3; width: 100%; background-color: blue;
+}
+.centert{
+    text-align: center;
+}
